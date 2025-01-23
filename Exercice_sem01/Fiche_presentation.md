@@ -8,4 +8,5 @@ J'aime beaucoup la programmation, et le dévelopement de jeux vidéo. C'est ce q
  contenu ludique. Étant un grand fan de DnD, il n'est pas une surprise que je soit intéressé à un tel domaine.
 
 ## Ce qui me plait dans l'introduction à la muséologie en TIM
-J'aime l'aspect technologique qui permet a l'immérsion du spectateur dans un monde créée par les organisateur des musées, la technique qui permet du suspendre leur incrédubilité pour raconter une histoire a travers de simple objet.
+J'aime l'aspect technologique qui permet a l'immérsion du spectateur dans un monde créée par les organisateur des musées, la technique qui permet du suspendre leur incrédubilité pour raconter une histoire a travers de simple objet. Un musée qui ma marqué quand j'étais plus jeune était celui de Star Wars identité qui te permettait de créer ton propre personage.
+<https://www.centredessciencesdemontreal.com/exposition-temporaire/star-warsmc-identites-l-exposition>
