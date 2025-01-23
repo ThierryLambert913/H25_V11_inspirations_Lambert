@@ -4,4 +4,5 @@
 Voila une photo de moi que j'ai pris grâce a mon téléphone.
 
 ## **Intérêts dans le multimedia**
-J'aime beaucoup la programmation, et le dévelopement de jeux vidéo. C'est ce que je veux faire comme carrière.
+J'aime beaucoup la programmation, et le dévelopement de jeux vidéo. C'est ce que je veux faire comme carrière. La chose qui m'a causé de développer un tel intérêt viens de mon intéraction avec ces jeux à un jeune age. J'ai souvent réver de moi aussi pouvoir laisser ma marque sur le monde grâce a un
+ contenu ludique.
